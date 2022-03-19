@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Part2
+comment0.text=\n\ Part\ 2\:\ HowMany\ -\ Finding\ Multiple\ Occurrences\n\ This\ class\ will\ write\ a\ method\ to\ determine\ how\ many\ occurrences\ of\ a\ string\ appear\ in\ another\ string.\n\ \n\ @Joyce\ Lin\n\ @Mar\ 17,\ 2022\n
+comment1.params=stringa\ stringb
+comment1.target=int\ howMany(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=void\ testHowMany()
+numComments=3

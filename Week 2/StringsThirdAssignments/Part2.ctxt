@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Part2
+comment0.text=\n\ \ the\ method\ cgRatio\ that\ has\ one\ String\ parameter\ dna,\ and\ returns\ the\ ratio\ \n\ \ of\ C\u2019s\ and\ G\u2019s\ in\ dna\ as\ a\ fraction\ of\ the\ entire\ strand\ of\ DNA.\ .\n\ \n\ @Joyce\ Lin\n\ @1.0\ Mar\ 19,\ 2022\n
+comment1.params=dna
+comment1.target=double\ cgRatio(java.lang.String)
+comment2.params=dna
+comment2.target=int\ countCTG(java.lang.String)
+comment3.params=
+comment3.target=void\ testCGRatio()
+comment4.params=
+comment4.target=void\ testCountCTG()
+numComments=5
