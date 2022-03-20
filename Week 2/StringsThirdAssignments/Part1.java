@@ -12,17 +12,17 @@ public class Part1 {
         //This method returns the index of the first occurrence of stopCodon that 
         //appears past startIndex and is a multiple of 3 away from startIndex. 
         //If there is no such stopCodon, this method returns the length of the dna strand.
-        int index = startIndex;
-	while(true){
-	    index = dna.indexOf(stopCodon, startIndex);
-	    int diff = index - startIndex;
-	    if(index == -1 || diff % 3 == 0){
-		break;
+        int currIndex = dna.indexOf(stopCodon, startIndex + 3);
+	while(currIndex != -1) {
+	    int diff = currIndex - startIndex;
+	    if(diff % 3 == 0) {
+		return currIndex;
+	    } else {
+		currIndex = dna.indexOf(stopCodon, currIndex + 1);
 	    }
-	    startIndex += diff + 3 - (diff % 3);
 	}
-	
-	return index;
+
+	return -1;
     }
     
     public String findGene (String dna, int where) {
