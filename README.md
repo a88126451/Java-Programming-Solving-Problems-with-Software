@@ -1,4 +1,4 @@
-# Java-Programming-Solving-Problems-with-Software
+# Java Programming Solving Problems with Software
 
 This course is offered at Coursera and is part of the [Java Programming and Software Engineering Fundamentals](https://www.coursera.org/specializations/java-programming).
 
