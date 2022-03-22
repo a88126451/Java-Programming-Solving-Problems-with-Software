@@ -11,11 +11,11 @@ This is the second course of the Specialization, [Link to the course](https://ww
 - [**makeIversionBatch**](https://github.com/a88126451/Java-Programming-Solving-Problems-with-Software/blob/main/Week%204/HonorsContent_makeGrayBatch/BatchInversions.java) : Create new images that are photographic negatives (or inverted images) of selected images and save these new images with filenames that are related to the original images.
 
 # Course Purpose
-1. Edit, compile, and run a Java program;
-2. Use conditionals and loops in a Java program;
+1. Edit, compile, and run a Java program.
+2. Use conditionals and loops in a Java program.
 3. Use Java API documentation in writing programs.
-4. Debug a Java program using the scientific method;
-5. Write a Java method to solve a specific problem;
-6. Develop a set of test cases as part of developing a program;
-7. Create a class with multiple methods that work together to solve a problem; and
-8. Use divide-and-conquer design techniques for a program that uses multiple methods
+4. Debug a Java program using the scientific method.
+5. Write a Java method to solve a specific problem.
+6. Develop a set of test cases as part of developing a program.
+7. Create a class with multiple methods that work together to solve a problem.
+8. Use divide-and-conquer design techniques for a program that uses multiple methods.
