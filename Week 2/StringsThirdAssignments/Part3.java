@@ -9,8 +9,8 @@
  * print the number of strings in sr whose C-G-ratio is higher than 0.35
  * print the length of the longest gene in sr
  * 
- * @Joyce Lin
- * @1.0 Mar 19, 2022
+ * @author Joyce Lin
+ * @version 1.0 Mar 19, 2022
  */
 import edu.duke.FileResource;
 import edu.duke.StorageResource;

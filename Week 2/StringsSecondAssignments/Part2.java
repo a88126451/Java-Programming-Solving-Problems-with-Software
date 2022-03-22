@@ -2,8 +2,8 @@
  * Part 2: HowMany - Finding Multiple Occurrences
  * This class will write a method to determine how many occurrences of a string appear in another string.
  * 
- * @Joyce Lin
- * @Mar 17, 2022
+ * @author Joyce Lin
+ * @version Mar 17, 2022
  */
 public class Part2 {
     public int howMany(String stringa, String stringb) {

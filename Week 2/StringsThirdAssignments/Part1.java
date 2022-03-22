@@ -2,8 +2,8 @@
  *  use a StorageResource to store the genes you find instead of 
  *  printing them out.
  * 
- * @Joyce 
- * @1.0 Mar 19, 2022
+ * @author Joyce Lin
+ * @version 1.0 Mar 19, 2022
  */
 import edu.duke.StorageResource;
 

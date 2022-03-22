@@ -2,8 +2,8 @@
  *  the method cgRatio that has one String parameter dna, and returns the ratio 
  *  of C’s and G’s in dna as a fraction of the entire strand of DNA. .
  * 
- * @Joyce Lin
- * @1.0 Mar 19, 2022
+ * @author Joyce Lin
+ * @Joyce 1.0 Mar 19, 2022
  */
 public class Part2 {
     public double cgRatio (String dna) {

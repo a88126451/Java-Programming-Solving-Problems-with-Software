@@ -2,8 +2,8 @@
 /**
  * Parsing Export Data using CSV Libraries.
  * 
- * @Joyce Lin 
- * @Mar 20, 2022
+ * @author Joyce Lin 
+ * @version Mar 20, 2022
  */
 import edu.duke.*;
 import org.apache.commons.csv.*;

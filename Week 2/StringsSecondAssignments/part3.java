@@ -1,8 +1,8 @@
 /**
  * Part 3: How Many Genes?
  * This program designs to count how many genes are in a strand of DNA.
- * @Joyce Lin 
- * @1.0 Mar 17, 2022
+ * @author Joyce Lin 
+ * @version 1.0 Mar 17, 2022
  */
 public class part3 {
     public int findStopCodon (String dna, int startIndex, String stopCodon) {

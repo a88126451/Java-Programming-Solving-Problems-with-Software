@@ -2,8 +2,8 @@ import edu.duke.*;
 /**
  * Write a description of part4 here.
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author Joyce Lin
+ * @version 1.0
  */
 public class Part4 {
     public void printUrls(String url) {

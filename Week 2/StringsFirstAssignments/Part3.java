@@ -2,8 +2,8 @@
 /**
  * Write a description of Part3 here.
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author Joyce Lin
+ * @version 1.0
  */
 public class Part3 {
     public boolean twoOccurrences (String stringa, String stringb){
